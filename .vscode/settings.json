@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/sho/.local/share/virtualenvs/choisu_org-FoxcZe7-/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "kctxks",
+        "yrkk"
+    ]
+}
